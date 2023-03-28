@@ -8,7 +8,6 @@ data <- read.csv(url) <br />
 
 ## To load/import data features (this document) into RStudio:  <br />
 url2 <- "https://raw.githubusercontent.com/m-dimiceli/Database_biomed/Databases/README.md?token=GHSAT0AAAAAACAV7MDQP6WRPYZFZ6HEJ4AIZBDAZAA" <br />
-url2 <br />
 features <- readLines(url2) <br />
 features <br />
 
