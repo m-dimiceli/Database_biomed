@@ -3,8 +3,8 @@ Synthetic Biomedical Science database <br />
 This databse was created to support data handling, analysis and representation. <br />
 
 To load/import the data into RStudio:  <br />
-url <- "https://raw.githubusercontent.com/m-dimiceli/Database_biomed/Databases/UoW_biomed_v2.csv?token=GHSAT0AAAAAACASSUQD5ERWQQITWXXM4EHCZBC2D7Q"  <br />
-data <- read.csv(url)  <br />
+url <- "https://raw.githubusercontent.com/m-dimiceli/Database_biomed/Databases/UoW_biomed_v2.csv?token=GHSAT0AAAAAACAV7IVWQYXDHB27QKMRSJ4AZBC7P5A"
+data <- read.csv(url) <br />
 
 Database description: <br />
 Size: 108 KB <br />
