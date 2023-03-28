@@ -9,7 +9,7 @@ data <- read.csv(url)  <br />
 Database description: <br />
 Size: 108 KB <br />
 Entries: 600 observations of 26 variables <br />
-Format: .xlsx document, password-protected <br />
+Format: .csv document (comma-separated values) <br />
 Simulation: biomedical science <br />
 
 Abbreviations: <br />
