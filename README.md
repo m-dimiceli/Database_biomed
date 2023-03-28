@@ -26,7 +26,7 @@ car_pwr: num, car power, 2 dp. <br />
 chromo: chr, sex chromosome, 2 factors 'XX' or 'XY'. <br />
 eye_col: chr, eye colour, 7 factors 'brown', 'hazel', 'blue', 'green', 'gray', 'amber', 'rare'. <br />
 CT_drug: chr, clinical trial drug group, 2 factors 'placebo' or 'heparin' <br />
-age: int, age in years. <br />
+age: int, age, in years. <br />
 IQ: int, intellectual quotient. <br />
 height: num, height, 1 dp, in cm. <br />
 weight: int, weight, in Kg. <br />
