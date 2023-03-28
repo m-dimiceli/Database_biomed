@@ -43,8 +43,8 @@ hematocr: num, hematocrit ratio, 3 dp. <br />
 det_CRP: int, 2 factors '0' or '1'. <br />
 s_cort: num, serum cortisol level, 2 dp, in mg/l. <br />
 s_b12: num, serum vitamin B12 level, 2 dp, in pmol/l. <br />
-BP_dia: num, diastolic blood pressure, 2 dp, in mmHg. <br />
-BP_syst: num, systolic blood pressure, 2 dp, in mmHg. <br />
+BP_dia: int, diastolic blood pressure, in mmHg. <br />
+BP_syst: int, systolic blood pressure, in mmHg. <br />
 
 Licence:  <br />
 Open <br />
