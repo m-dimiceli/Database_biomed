@@ -1,6 +1,6 @@
 # Database_biomed
 
-Synthetic Biomedical Science database
+# Synthetic Biomedical Science database
 
 Database description
 107 kB
