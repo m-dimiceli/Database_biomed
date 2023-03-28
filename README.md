@@ -1,6 +1,6 @@
 # Database_biomed <br />
 Synthetic Biomedical Science database <br />
-This database was created to support data handling, analysis and representation. <br />
+This database was created to support data handling, analysis and display. <br />
 
 ## To load/import the data into RStudio:  <br />
 url <- "https://raw.githubusercontent.com/m-dimiceli/Database_biomed/Databases/UoW_biomed_v2.csv?token=GHSAT0AAAAAACAV7IVWQYXDHB27QKMRSJ4AZBC7P5A" <br />
