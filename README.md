@@ -25,7 +25,7 @@ num: numeric <br />
 dp: decimal point(s) <br />
 
 ## Variables: <br />
-ID: chr, participant assigned ID, [A-Z][0000-9999][A-Z]. <br />
+ID: chr, participant assigned hexadecimal identification, [A-Z][0000-9999][A-Z]. <br />
 job: chr, job. <br />
 car_col: chr, car colour, 2 factors 'Black' or 'Other'. <br />
 car_pwr: num, car power, 2 dp. <br />
