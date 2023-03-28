@@ -32,8 +32,8 @@ height: num, height, 1 dp, in cm. <br />
 weight: int, weight, in Kg. <br />
 foot_len: num, dominant foot length, 1 dp, in cm. <br />
 D4_len: num, dominant hand 4th digit length, 1 dp, in mm. <br />
-hand_len: int, dominant hand length, in cm. <br />
-tot_RBC: int, total red blood cells count, per 10^9. <br />
+hand_len: num, dominant hand length, 1 dp, in cm. <br />
+tot_RBC: numt, total red blood cells count, 1 dp, per 10^9. <br />
 tot_plat: num, total platelets count, 1 dp, per 10^9. <br />
 tot_WC: num, total white cells count, 1 dp, per 10^9. <br />
 tot_mono: num, total monocytes count, 3 dp, per 10^9. <br />
