@@ -39,12 +39,12 @@ weight: int, weight, in Kg. <br />
 foot_len: num, dominant foot length, 1 dp, in cm. <br />
 D4_len: num, dominant hand 4th digit length, 1 dp, in mm. <br />
 hand_len: num, dominant hand length, 1 dp, in cm. <br />
-tot_RBC: numt, total red blood cells count, 1 dp, per 10^9. <br />
-tot_plat: num, total platelets count, 1 dp, per 10^9. <br />
-tot_WC: num, total white cells count, 1 dp, per 10^9. <br />
-tot_mono: num, total monocytes count, 3 dp, per 10^9. <br />
-tot_lympho: num, total lymphocytes count, 2 dp, per 10^9. <br />
-tot_eosi: num, total eosinophiles count, 2 dp, per 10^9. <br />
+tot_RBC: numt, total red blood cells count, 1 dp, in 10^9/ml. <br />
+tot_plat: num, total platelets count, 1 dp, in 10^9/ml. <br />
+tot_WC: num, total white cells count, 1 dp, in 10^9/ml. <br />
+tot_mono: num, total monocytes count, 3 dp, in 10^9/ml. <br />
+tot_lympho: num, total lymphocytes count, 2 dp, in 10^9/ml. <br />
+tot_eosi: num, total eosinophiles count, 2 dp, in 10^9/ml. <br />
 hematocr: num, hematocrit ratio, 3 dp. <br />
 det_CRP: int, 2 factors '0' or '1'. <br />
 s_cort: num, serum cortisol level, 2 dp, in mg/l. <br />
