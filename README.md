@@ -6,25 +6,25 @@ This database was created to support data handling, analysis and representation.
 url <- "https://raw.githubusercontent.com/m-dimiceli/Database_biomed/Databases/UoW_biomed_v2.csv?token=GHSAT0AAAAAACAV7IVWQYXDHB27QKMRSJ4AZBC7P5A" <br />
 data <- read.csv(url) <br />
 
-To load/import data features (this document) into RStudio:  <br />
+## To load/import data features (this document) into RStudio:  <br />
 url2 <- "https://raw.githubusercontent.com/m-dimiceli/Database_biomed/Databases/README.md?token=GHSAT0AAAAAACAV7MDQP6WRPYZFZ6HEJ4AIZBDAZAA"
 url2
 features <- readLines(url2)
 features
 
-Database description: <br />
+## Database description: <br />
 Size: 108 KB <br />
 Entries: 600 observations of 26 variables <br />
 Format: .csv document (comma-separated values) <br />
 Simulation: biomedical science <br />
 
-Abbreviations: <br />
+## Abbreviations: <br />
 chr: character <br />
 int: integer <br />
 num: numeric <br />
 dp: decimal point(s) <br />
 
-Variables: <br />
+## Variables: <br />
 ID: chr, participant assigned ID, [A-Z][0000-9999][A-Z]. <br />
 job: chr, job. <br />
 car_col: chr, car colour, 2 factors 'Black' or 'Other'. <br />
@@ -52,9 +52,9 @@ s_b12: num, serum vitamin B12 level, 2 dp, in pmol/l. <br />
 BP_dia: int, diastolic blood pressure, in mmHg. <br />
 BP_syst: int, systolic blood pressure, in mmHg. <br />
 
-Licence:  <br />
-Open <br />
+## Licence:  <br />
+Fully open <br />
 m.dimiceli@worc.ac.uk <br />
 
-Versions: <br />
+## Versions: <br />
 v2: 28/March/2023 <br />
