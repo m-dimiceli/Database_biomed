@@ -6,6 +6,12 @@ To load/import the data into RStudio:  <br />
 url <- "https://raw.githubusercontent.com/m-dimiceli/Database_biomed/Databases/UoW_biomed_v2.csv?token=GHSAT0AAAAAACAV7IVWQYXDHB27QKMRSJ4AZBC7P5A" <br />
 data <- read.csv(url) <br />
 
+To load/import data features (this document) into RStudio:  <br />
+url2 <- "https://raw.githubusercontent.com/m-dimiceli/Database_biomed/Databases/README.md?token=GHSAT0AAAAAACAV7MDQP6WRPYZFZ6HEJ4AIZBDAZAA"
+url2
+features <- readLines(url2)
+features
+
 Database description: <br />
 Size: 108 KB <br />
 Entries: 600 observations of 26 variables <br />
